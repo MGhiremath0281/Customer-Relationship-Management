@@ -1,0 +1,4 @@
+com\example\simplecrmproject\SimpleCrmProjectApplication.class
+com\example\simplecrmproject\model\Customer.class
+com\example\simplecrmproject\service\CustomerService.class
+com\example\simplecrmproject\controller\CustomerController.class

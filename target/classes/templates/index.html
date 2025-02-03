@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Simple CRM</title>
+    <link rel="stylesheet" type="text/css" href="newstyle.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Simple Customer Relationship Management</h1>
+        <nav>
+            <a th:href="@{/customers/add}" class="btn">Add Customer</a>
+            <a th:href="@{/customers}" class="btn">View Customers</a>
+        </nav>
+    </div>
+</body>
+</html>
