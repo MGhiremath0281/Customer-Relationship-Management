@@ -27,7 +27,7 @@ Follow these steps to run the application:
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/mghiremath0281/SimpleCRMProject.git
+   git clone https://github.com/MGhiremath0281/SimpleCRMProject.git
    cd SimpleCRMProject
 
 2. **Build the project**:
